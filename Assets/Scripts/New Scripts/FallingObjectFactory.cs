@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+// เปลี่ยนระบบสร้างไอเท็ม
 public class FallingObjectFactory : MonoBehaviour
 {
     [Tooltip("Prefab ที่จะสุ่มสร้าง (ของตก, ลูกบอล, ผลไม้ ฯลฯ)")]
