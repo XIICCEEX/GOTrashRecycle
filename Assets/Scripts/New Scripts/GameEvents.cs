@@ -2,7 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//สำหรับคะแนน
 public static class GameEvents
 {
     // คะแนนเปลี่ยน
