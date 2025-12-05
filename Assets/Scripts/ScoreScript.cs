@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine.UI;
 using UnityEngine;
 using TMPro; 
-
+//Trigger event เมื่อคะแนนเปลี่ยน
 public class ScoreScript : MonoBehaviour
 {
     public TMP_Text scoreText;
