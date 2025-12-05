@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using TMPro;
 using UnityEngine;
-
+//เพื่ออัปเดต UI
 public class ScoreUI : MonoBehaviour
 {
     public TMP_Text scoreText;
